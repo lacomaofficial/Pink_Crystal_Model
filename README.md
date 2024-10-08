@@ -19,7 +19,6 @@ The first function, `transform_df(df)`, splits the feature names (formatted as `
 - **Steps:**
   - Ensure the necessary columns (`'Feature Name'` and `'Importance Score'`) are present.
   - Split the `'Feature Name'` into `Marker1` and `Marker2`.
-  - Drop the original `'Feature Name'` column and rename `'Importance Score'` to `'Correlation'`.
 
 ### 3D Brain Visualization with `visualize_white_connectome_with_surface_final`
 This function handles the plotting of my brain connections.
@@ -48,4 +47,9 @@ By mapping feature importance to brain region connections in a 3D model, I provi
 
 ![image](https://github.com/user-attachments/assets/e4aa140d-33aa-4ae2-a9e0-d64778730a85)
 
+# 3D Visualization
+
+I created a 3D visualization of the brain model. You can explore it interactively by clicking the link below:
+
+[View 3D Brain Model](https://<username>.github.io/<repository-name>/pink_crystal_connectome.html)
 

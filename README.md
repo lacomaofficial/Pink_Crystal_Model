@@ -46,3 +46,6 @@ This function handles the plotting of my brain connections.
 
 By mapping feature importance to brain region connections in a 3D model, I provide an intuitive and aesthetic way to understand which connections matter most in my work. For example, in a deep learning model predicting ADHD or decoding neural signals, this visualization highlights the most important brain connections, helping researchers and clinicians focus on key neural circuits.
 
+![image](https://github.com/user-attachments/assets/e4aa140d-33aa-4ae2-a9e0-d64778730a85)
+
+

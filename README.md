@@ -47,9 +47,3 @@ By mapping feature importance to brain region connections in a 3D model, I provi
 
 ![image](https://github.com/user-attachments/assets/e4aa140d-33aa-4ae2-a9e0-d64778730a85)
 
-# 3D Visualization
-
-I created a 3D visualization of the brain model. You can explore it interactively by clicking the link below:
-
-[View 3D Brain Model](https://<username>.github.io/<repository-name>/pink_crystal_connectome.html)
-
